@@ -47,6 +47,7 @@
 <?php wp_enqueue_script( 'jquery' ); ?>
 <!-- wordpress header setting -->
 <?php wp_head(); ?>
+<!-- additional style -->
 <!-- added javascript -->
 <!-- <?php comments_popup_script(); ?> -->
 </head>
