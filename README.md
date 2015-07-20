@@ -1,5 +1,6 @@
 # wordpress-theme
 crystalsnowman.comのWordPressテーマです。
+コメント欄を改善します。
 
 --
 
