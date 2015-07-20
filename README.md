@@ -1,5 +1,6 @@
 # wordpress-theme
 crystalsnowman.comのWordPressテーマです。
+パンくずリストを追加します。
 
 --
 
