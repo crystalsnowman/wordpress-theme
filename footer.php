@@ -10,6 +10,11 @@
 </footer>
 <!-- wordpress footer setting -->
 <?php wp_footer(); ?>
+<!-- additional style -->
+<style>
+	.crayon-main::-webkit-scrollbar,.crayon-plain::-webkit-scrollbar { height:13px; width: 13px; }
+	.crayon-main::-webkit-scrollbar-thumb,.crayon-plain::-webkit-scrollbar-thumb { border:1px solid #808080; }
+</style>
 <!-- External files -->
 <!-- added javascript -->
 <script>
